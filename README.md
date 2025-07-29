@@ -39,7 +39,7 @@ graph TD
 ### 📁 Contents
 ```
 ├── README.md                    # This documentation
-└── RAG Code.ipynb              # Complete implementation notebook
+└── Stock_News_QnA.ipynb         # Complete implementation notebook
 ```
 
 ### Technology Stack
