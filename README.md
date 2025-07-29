@@ -8,7 +8,7 @@
 ### Stock News RAG System
 - **Retrieves** relevant stock news based on user queries
 - **Augments** LLM context with news metadata
-- **Generates** personalized recommendations with explanations
+- **Generates** personalized answers with explanations
 
 ### Dataset
 - **Source**: Stock news articles embedded in JSON format
@@ -107,7 +107,7 @@ graph TD
 ### Retrieval Optimization
 - **Similarity Thresholds**: Balanced precision-recall trade-offs
 - **Result Ranking**: Multi-factor relevance scoring
-- **Diversity Enhancement**: Avoid redundant recommendations
+- **Diversity Enhancement**: Avoid redundant information
 - **Context Window Management**: Optimal information selection
 
 ### Response Quality
@@ -125,7 +125,7 @@ graph TD
 - **Response Time**: Query processing and generation speed
 
 ### User Experience
-- **Recommendation Accuracy**: User satisfaction with suggestions
+- **Answer Accuracy**: User satisfaction with suggestions
 - **Explanation Quality**: Clarity and helpfulness of reasoning
 - **System Responsiveness**: End-to-end response times
 - **Result Consistency**: Stable performance across query types
