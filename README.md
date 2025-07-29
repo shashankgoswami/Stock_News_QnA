@@ -6,7 +6,6 @@
 
 
 ### Stock News RAG System
-Our implementation demonstrates RAG principles through a movie recommendation engine that:
 - **Retrieves** relevant stock news based on user queries
 - **Augments** LLM context with news metadata
 - **Generates** personalized recommendations with explanations
@@ -39,7 +38,6 @@ graph TD
 
 ### 📁 Contents
 ```
-4_RAG/
 ├── README.md                    # This documentation
 └── RAG Code.ipynb              # Complete implementation notebook
 ```
@@ -54,15 +52,15 @@ graph TD
 ## 🔄 RAG Workflow Implementation
 
 ### 1. Data Loading and Preprocessing
-# Load and preprocess news data
+#### Load and preprocess news data
 
 
 ### 2. Embedding Creation
-# Generate vector embeddings for movie descriptions
+#### Generate vector embeddings for movie descriptions
 
 
 ### 3. Vector Database Setup
-# ChromaDB collection for similarity search
+#### ChromaDB collection for similarity search
 
 
 ### 4. Retrieval Strategies
@@ -80,9 +78,6 @@ graph TD
 #### Query Decomposition
 - Break complex queries into sub-queries
 - Comprehensive result aggregation
-
-### 5. Response Generation
-# Structured output with Pydantic
 
 
 ## 🎯 Key Features
