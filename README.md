@@ -56,7 +56,7 @@ graph TD
 
 
 ### 2. Embedding Creation
-#### Generate vector embeddings for movie descriptions
+#### Generate vector embeddings for news and it's metadata
 
 
 ### 3. Vector Database Setup
